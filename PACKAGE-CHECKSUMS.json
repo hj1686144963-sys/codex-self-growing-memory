@@ -1,0 +1,172 @@
+{
+  "plugin": "codex-self-growing-memory",
+  "version": "1.1.0",
+  "generated_at": "2026-07-28T08:55:52+00:00",
+  "files": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "size": 1088,
+      "sha256": "a8c2e250e92ce980ade99370e1b7e35d472b11019dac7a53167b6fa458fb14d9"
+    },
+    {
+      "path": ".gitignore",
+      "size": 52,
+      "sha256": "0a6e9b105320cceab6876e87c6fc2f0c6f2ba388b1bf65eacdf8a5e5e396f9bd"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size": 550,
+      "sha256": "a3d9358c20f24d935a0ab4e4220527e9603a68393de840265a422e06c0dab72d"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1073,
+      "sha256": "763952ec4c671481dd042818efc474aabc2082d584cf799d03134ae6ab40ca4f"
+    },
+    {
+      "path": "README.md",
+      "size": 4309,
+      "sha256": "d458e636f3382bd4bdc3e7fc5a9eccbc128cc60b10ff9653ae06031439e02ff9"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 564,
+      "sha256": "696599e76103b780de954a5d0053b8a1f45392ef659abb2b8658ea2a97d393bb"
+    },
+    {
+      "path": "SHARE-PROMPT.md",
+      "size": 1239,
+      "sha256": "3bb26f8e436e64d405e95e91348ac76f79f47c04d6c79f7681b9ed722a0273a5"
+    },
+    {
+      "path": "assets/icon.svg",
+      "size": 443,
+      "sha256": "5b80367d908c6a1de31b192d8f7dc1f047cd9f3373edde248171726b958f767d"
+    },
+    {
+      "path": "assets/knowledge-base/00-Inbox/README.md",
+      "size": 169,
+      "sha256": "6baceb860dadba8b984c8868657e9fe0e7a1a8bf0ff9ffd42a88d722cd981692"
+    },
+    {
+      "path": "assets/knowledge-base/01-Sources/索引.md",
+      "size": 104,
+      "sha256": "f008c18c574f26dc3ab14a138ef8027db48651bc8dfc1a9778a5994b471254ad"
+    },
+    {
+      "path": "assets/knowledge-base/02-Knowledge/索引.md",
+      "size": 134,
+      "sha256": "8313af4d3a8d9448e66b840b3938f7ebee74c5cbf3b55bd8226c62456f062156"
+    },
+    {
+      "path": "assets/knowledge-base/03-Projects/索引.md",
+      "size": 107,
+      "sha256": "5e292c86f146fa175cfad8266e463dcddd780c2052ffc5c4f1576133b74c4978"
+    },
+    {
+      "path": "assets/knowledge-base/04-Methods/索引.md",
+      "size": 86,
+      "sha256": "66db0cec5b0a6f4a5eaa9607001d47198dc0ac39560c0f7f4bfe73b86fc33b25"
+    },
+    {
+      "path": "assets/knowledge-base/05-Outputs/索引.md",
+      "size": 92,
+      "sha256": "5c07c5ab0f4d71f947b501a87e49d758503fbf5318761f855951896395107b69"
+    },
+    {
+      "path": "assets/knowledge-base/08-System/决策记录.md",
+      "size": 157,
+      "sha256": "075a51c4d667e25bfffab327b33becbd8d38d7f44d505b76447da80ff79f7a7e"
+    },
+    {
+      "path": "assets/knowledge-base/08-System/研究日志/README.md",
+      "size": 140,
+      "sha256": "a16ca512c6f397da57a43376d2c8c42b208e933578aee38ca9aa892c2d8d5f9c"
+    },
+    {
+      "path": "assets/knowledge-base/08-System/防踩坑记录.md",
+      "size": 154,
+      "sha256": "e76168e6f3d6c2d819411fdcef4f14bc138592927d71629326bebbe13fe635a3"
+    },
+    {
+      "path": "assets/knowledge-base/AGENTS.md",
+      "size": 927,
+      "sha256": "395863f326f311d30da90259f38bc2936162922864654409d0ec921cca1a7298"
+    },
+    {
+      "path": "assets/knowledge-base/README.md",
+      "size": 382,
+      "sha256": "8fbbe28bd30f0028a5c1a0dc737b426b11a58433723e5cec9b3a541917cea7f1"
+    },
+    {
+      "path": "assets/knowledge-base/START-HERE.md",
+      "size": 594,
+      "sha256": "80b3e304721f96639e4dc63d92014c2a61dd838fcd573893d600a1ce040be463"
+    },
+    {
+      "path": "assets/logo.svg",
+      "size": 551,
+      "sha256": "fbba2bd893cab489e5776b7790de8bab2fe464e4205982a433202289f9705a43"
+    },
+    {
+      "path": "assets/templates/global-agents-block.md",
+      "size": 2270,
+      "sha256": "3d7308325b0cf6042543c4c0236264bdc2d3f8f0671f130f6c1a3b2242ef3d5f"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "size": 1518,
+      "sha256": "576cdc6208c8f5744f07432e52b391246bb49b392be3e9e9cf9f5954b956fad2"
+    },
+    {
+      "path": "docs/RELEASE-1.1.0.md",
+      "size": 762,
+      "sha256": "eb62afc624d26731770a3f5f8c9ba306cba85b044fa60a0b77ee9c497e366504"
+    },
+    {
+      "path": "scripts/build_package.py",
+      "size": 2588,
+      "sha256": "34b08b1c2bc9b55cdaea46a5d4b6b5e3df7684aa2a5da4e04235f053f9bfed3d"
+    },
+    {
+      "path": "scripts/install.py",
+      "size": 15050,
+      "sha256": "598e04042dee36f374a9db9953de34a3a3f4e2973aa31e86d31da89a15c46105"
+    },
+    {
+      "path": "scripts/memory_hook.py",
+      "size": 10804,
+      "sha256": "7e54001cb9babf823c427e8c1ecb00bcce7dba13da8b59018edc204f938e54c0"
+    },
+    {
+      "path": "scripts/rollback.py",
+      "size": 3265,
+      "sha256": "94d719c7fa4c60a778d052e2dc0b0aff2306aad7e8fe6f01c7c61cbbea06c380"
+    },
+    {
+      "path": "scripts/verify.py",
+      "size": 8527,
+      "sha256": "7acaf17f259a3dbba18815dba92650d2cb27aad659a395131a5099728c34d615"
+    },
+    {
+      "path": "scripts/verify_package.py",
+      "size": 4208,
+      "sha256": "f9113e7075da66bfb818fe28563d7f28f78e43052df12426e041b231b10ac96d"
+    },
+    {
+      "path": "skills/codex-auto-memory/SKILL.md",
+      "size": 3771,
+      "sha256": "4d2b8b766815ca168fb150fcb1891757544595e7c349aa646aa615271c0ea72e"
+    },
+    {
+      "path": "skills/codex-auto-memory/agents/openai.yaml",
+      "size": 314,
+      "sha256": "a125fbf826146bd99eae7ef0f3a1d1584d414a3db6caec63a664a9f63751db26"
+    },
+    {
+      "path": "skills/codex-auto-memory/references/memory-policy.md",
+      "size": 2237,
+      "sha256": "e82ee7b59f66a57ad3bae396e13fa0fd55fef2629fa4ed2c0ca2496fdb82ee02"
+    }
+  ]
+}
