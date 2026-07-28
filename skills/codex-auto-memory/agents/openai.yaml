@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex 自动记忆"
+  short_description: "自动跨对话识别历史工作，按需检索知识库并沉淀可复用的防踩坑经验"
+  default_prompt: "Use $codex-auto-memory to continue my prior work and update durable knowledge safely."
+
+policy:
+  allow_implicit_invocation: true
