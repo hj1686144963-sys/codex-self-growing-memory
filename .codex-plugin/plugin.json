@@ -1,0 +1,28 @@
+{
+  "name": "codex-self-growing-memory",
+  "version": "1.1.0",
+  "description": "Cross-chat memory, selective local knowledge retrieval, durable write-back, and anti-regression guardrails for Codex.",
+  "author": {
+    "name": "雷鸟科技"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex 防踩坑与自增长",
+    "shortDescription": "跨对话记忆、知识检索、经验沉淀与防复发规则",
+    "longDescription": "为 Codex 开启本地跨会话记忆，在每次新任务中按需检索知识库，并把稳定决策、方法和踩坑经验去重后持续沉淀。",
+    "developerName": "雷鸟科技",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "brandColor": "#36D399",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "defaultPrompt": [
+      "检查并初始化我的跨对话自增长知识库。",
+      "从历史记忆继续当前项目，并自动记录新增经验。",
+      "检查知识库是否存在重复、冲突或过期结论。"
+    ]
+  }
+}
